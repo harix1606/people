@@ -15,3 +15,4 @@ Keep adding your names to this list.
 * Y D Jain ([ydjain](https://github.com/ydjain))
 * Dishon Goro ([I-am-Dishon](https://github.com/I-am-Dishon/))
 * Sanchit bansal ([voidestrucor](https://github.com/voidestructor))
+* Harikrishnan ([harix1606](https://github.com/harix1606))
